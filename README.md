@@ -1,6 +1,9 @@
 # Deep-Wave-Dreams
 Genre - Chiptune
 
+Song Name: Deep Wave Dreams
+Artist: Josh Penn-Pierson
+
 [Youtube Link](https://www.youtube.com/watch?v=QUQl7muecpo&list=PLye9mcKwe2zy3KW8uK_3F7HVMjJjdqSqU&index=34)
 
 Current Song Version: 1.0
